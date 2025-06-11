@@ -1,0 +1,24 @@
+Classes
+123245
+Quim
+PMS
+, ,
+23/11/2023
+Objetos
+aaaaaaa
+Tone
+PO 
+, ,
+24/11/2023
+Burro   
+adadada
+Quim
+PMS
+, ,
+null
+Motociclo
+000000
+Tone
+PO 
+, ,
+null

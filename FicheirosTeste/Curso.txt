@@ -1,0 +1,8 @@
+LEGSI
+PMS,PO,SO,
+Quim
+Xico, Padeiro,
+MIEGSI 
+FSI, FEO, SC,
+Tone
+Bino, Tone,
